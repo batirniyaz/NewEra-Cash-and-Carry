@@ -1,3 +1,4 @@
 .env
 .idea/
 test_main.http
+test.db
